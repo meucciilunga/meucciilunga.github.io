@@ -1,0 +1,36 @@
+---
+title: "Deerspring"
+author: "Deerspring"
+date: "2024-09-05"
+output:
+  postcards::jolla:
+    css: styles.css
+---
+<br><br>
+
+## About Me
+I am a first-year Biostatistics PhD student at the JHU-BSPH. I am passionate about data science and statistical methodology. My primary technical interests are in autoencoders and causal inference, while my domain-specific research interests lie broadly in the fields of environmental health, climate policy, and protein design. I did my undergraduate (BSc) in Biochemistry at the University of Arizona, and spent 3-years as a research assistant focused on computational protein design and on synthetic biology. I have a little bit of experience in statistics/programming/data analysis, but no formal academic training. What I hope most to get out of this course is a more fundamental grasp of the RLang and the data science ecosystem built around it.
+<br><br><br><br>
+
+### Five Fun Facts About Me (indexed at 0)
+0. I love burritos, sandwiches, and tacos
+1. I am Navajo from Northern Arizona, and am born for the **Deerspring**
+2. I am a huge fan of Rust and its culture of memory-safe programming
+3. [**Everything Everywhere All At Once**](https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once) is my favorite movie.
+4. I recently received the honor of being named part of the Intel Scholars Program!
+5. I am a member of the **Vivien Thomas Scholars Initiative (VTSI)** at Johns Hopkins University.
+<br><br>
+
+<div align="center">
+<img src="https://d135u4jtzauizi.cloudfront.net/EEAAO_BY_JAMESJEAN_FINAL_Compressed_220301_161017.jpg" alt="Favorite film." width="415" height="600">
+</div>
+<br><br><br><br>
+
+### Inspiring Link
+While I am not a computer scientist nor doing a CS PhD, this is the video that originally inspirated me to pursue a PhD in Biostatistics: [**The Man Who Revolutionized Computer Science With Math**](https://www.youtube.com/watch?v=rkZzg7Vowao)
+
+I love his discussion of industry at the end of the video, and how the problems he faced as an industry scientist were extremely interesting and leveraged his academic background.
+<br><br><br><br>
+
+### Contact
+You can reach me at milunga2 [at] jh.edu

@@ -1,0 +1,8 @@
+body, p, li {
+  text-align: left !important;
+}
+
+/* Add spacing between sections */
+.content h2 {
+  margin-bottom: 2rem;
+}
